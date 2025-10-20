@@ -20,7 +20,7 @@ export function WhatsAppButton() {
     return () => clearTimeout(timer)
   }, [])
 
-  const whatsappUrl = `https://wa.me/5592984497829?text=${encodeURIComponent("Quero marcar uma consulta de Estética com a Dra. Nathália Matos")}`
+  const whatsappUrl = `https://wa.me/5592984497829?text=${encodeURIComponent("Oi, Quero marcar uma Consulta de Dermatologia com a Dra. Nathália Matos")}`
 
   return (
     <div

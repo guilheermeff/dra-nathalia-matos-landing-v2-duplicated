@@ -24,7 +24,7 @@ export function AboutSection() {
                 </p>
               </div>
               <Link
-                href="https://wa.me/5592984497829?text=Quero%20marcar%20uma%20consulta%20de%20Est%C3%A9tica%20com%20a%20Dra.%20Nath%C3%A1lia%20Matos"
+                href="https://wa.me/5592984497829?text=Oi%2C%20Quero%20marcar%20uma%20Consulta%20de%20Dermatologia%20com%20a%20Dra.%20Nath%C3%A1lia%20Matos"
                 target="_blank"
                 className="whatsapp-botao rounded-full px-4 sm:px-6 py-2 sm:py-2 bg-green-600 hover:bg-green-700 text-white text-sm sm:text-base flex items-center w-fit"
               >              

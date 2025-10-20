@@ -73,7 +73,7 @@ export function Header() {
 
         <div className="flex items-center space-x-4 flex-shrink-0">
           <Link 
-            href="https://wa.me/5592984497829?text=Quero%20marcar%20uma%20consulta%20de%20Est%C3%A9tica%20com%20a%20Dra.%20Nath%C3%A1lia%20Matos"
+            href="https://wa.me/5592984497829?text=Oi%2C%20Quero%20marcar%20uma%20Consulta%20de%20Dermatologia%20com%20a%20Dra.%20Nath%C3%A1lia%20Matos"
             target="_blank"
             className="whatsapp-botao relative bg-green-600 hover:bg-green-800 text-white rounded-full text-bold px-4 py-2 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110 group flex items-center gap-2 font-bold"
           >
